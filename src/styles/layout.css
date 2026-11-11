@@ -1,0 +1,55 @@
+#game {
+  min-height: 100vh;
+}
+
+.game-shell {
+  width: min(1120px, 100%);
+  margin: 0 auto;
+  padding: 28px 32px 20px;
+}
+
+.topbar {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.brand-copy {
+  flex: 1;
+}
+
+.brand-copy h1,
+.section-heading h2,
+.details-card h2,
+.welcome h2 {
+  margin: 0;
+}
+
+.welcome {
+  padding: 48px 0 28px;
+}
+
+.game-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.6fr) minmax(240px, 0.8fr);
+  align-items: start;
+  gap: 22px;
+}
+
+.section-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.city-grid {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: 9px;
+}
+
+.page-footer {
+  padding: 24px 0 8px;
+  text-align: center;
+}

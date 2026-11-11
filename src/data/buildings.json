@@ -1,0 +1,38 @@
+[
+  {
+    "id": "house",
+    "name": "Casa",
+    "price": 20,
+    "type": "residential",
+    "description": "Um espaço acolhedor para sua cidade.",
+    "symbol": " 🏠",
+    "behavior": "decoration"
+  },
+  {
+    "id": "store",
+    "name": "Loja",
+    "price": 45,
+    "type": "commercial",
+    "description": "Uma loja para movimentar a cidade.",
+    "symbol": " 🏪",
+    "behavior": "proposed-coin-income"
+  },
+  {
+    "id": "school",
+    "name": "Escola",
+    "price": 68,
+    "type": "education",
+    "description": "Um espaço dedicado ao aprendizado.",
+    "symbol": " 🏫",
+    "behavior": "proposed-english-activities"
+  },
+  {
+    "id": "park",
+    "name": "Parque",
+    "price": 15,
+    "type": "leisure",
+    "description": "Uma área verde para a cidade.",
+    "symbol": " 🌳",
+    "behavior": "decoration"
+  }
+]

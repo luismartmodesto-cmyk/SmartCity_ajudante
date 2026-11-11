@@ -1,0 +1,602 @@
+[
+  {
+    "id": "vocabulary-dog",
+    "category": "vocabulary",
+    "level": "pre-A1",
+    "type": "multiple-choice",
+    "reviewStatus": "draft",
+    "prompt": "Como se diz “cachorro” em inglês?",
+    "options": [
+      { "id": "dog", "text": "dog" },
+      { "id": "cat", "text": "cat" },
+      { "id": "bird", "text": "bird" }
+    ],
+    "correctAnswerId": "dog",
+    "hint": "É um animal que costuma latir.",
+    "explanation": "“Dog” significa “cachorro”.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "dog"
+  },
+  {
+    "id": "vocabulary-book",
+    "category": "vocabulary",
+    "level": "pre-A1",
+    "type": "multiple-choice",
+    "reviewStatus": "draft",
+    "prompt": "Qual palavra em inglês significa “livro”?",
+    "options": [
+      { "id": "book", "text": "book" },
+      { "id": "door", "text": "door" },
+      { "id": "chair", "text": "chair" }
+    ],
+    "correctAnswerId": "book",
+    "hint": "Você pode ler uma história nele.",
+    "explanation": "“Book” significa “livro”.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "book"
+  },
+  {
+    "id": "vocabulary-water",
+    "category": "vocabulary",
+    "level": "pre-A1",
+    "type": "multiple-choice",
+    "reviewStatus": "draft",
+    "prompt": "Como se diz “água” em inglês?",
+    "options": [
+      { "id": "water", "text": "water" },
+      { "id": "bread", "text": "bread" },
+      { "id": "milk", "text": "milk" }
+    ],
+    "correctAnswerId": "water",
+    "hint": "É uma bebida transparente.",
+    "explanation": "“Water” significa “água”.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "water"
+  },
+  {
+    "id": "vocabulary-house",
+    "category": "vocabulary",
+    "level": "pre-A1",
+    "type": "multiple-choice",
+    "reviewStatus": "draft",
+    "prompt": "Qual palavra significa “casa”?",
+    "options": [
+      { "id": "house", "text": "house" },
+      { "id": "school", "text": "school" },
+      { "id": "park", "text": "park" }
+    ],
+    "correctAnswerId": "house",
+    "hint": "É o lugar onde muitas pessoas moram.",
+    "explanation": "“House” significa “casa”.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "house"
+  },
+  {
+    "id": "vocabulary-red",
+    "category": "vocabulary",
+    "level": "pre-A1",
+    "type": "multiple-choice",
+    "reviewStatus": "draft",
+    "prompt": "Como se diz “vermelho” em inglês?",
+    "options": [
+      { "id": "red", "text": "red" },
+      { "id": "blue", "text": "blue" },
+      { "id": "green", "text": "green" }
+    ],
+    "correctAnswerId": "red",
+    "hint": "É a cor de muitas maçãs maduras.",
+    "explanation": "“Red” significa “vermelho”.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "red"
+  },
+  {
+    "id": "phrase-good-morning",
+    "category": "daily-phrases",
+    "level": "pre-A1",
+    "type": "multiple-choice",
+    "reviewStatus": "draft",
+    "prompt": "O que você diz para cumprimentar alguém pela manhã?",
+    "options": [
+      { "id": "good-morning", "text": "Good morning!" },
+      { "id": "good-night", "text": "Good night!" },
+      { "id": "goodbye", "text": "Goodbye!" }
+    ],
+    "correctAnswerId": "good-morning",
+    "hint": "A expressão começa com “Good” e usa a palavra “morning”.",
+    "explanation": "“Good morning!” é uma saudação usada pela manhã.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "Good morning"
+  },
+  {
+    "id": "phrase-please",
+    "category": "daily-phrases",
+    "level": "pre-A1",
+    "type": "multiple-choice",
+    "reviewStatus": "draft",
+    "prompt": "Qual palavra torna um pedido mais educado?",
+    "options": [
+      { "id": "please", "text": "Please" },
+      { "id": "sorry", "text": "Sorry" },
+      { "id": "hello", "text": "Hello" }
+    ],
+    "correctAnswerId": "please",
+    "hint": "Em português, essa palavra significa “por favor”.",
+    "explanation": "“Please” significa “por favor”.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "Please"
+  },
+  {
+    "id": "phrase-thank-you",
+    "category": "daily-phrases",
+    "level": "pre-A1",
+    "type": "multiple-choice",
+    "reviewStatus": "draft",
+    "prompt": "O que você diz para agradecer?",
+    "options": [
+      { "id": "thank-you", "text": "Thank you!" },
+      { "id": "excuse-me", "text": "Excuse me!" },
+      { "id": "see-you", "text": "See you!" }
+    ],
+    "correctAnswerId": "thank-you",
+    "hint": "A expressão começa com “Thank”.",
+    "explanation": "“Thank you!” significa “Obrigado(a)!”.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "Thank you"
+  },
+  {
+    "id": "phrase-goodbye",
+    "category": "daily-phrases",
+    "level": "pre-A1",
+    "type": "multiple-choice",
+    "reviewStatus": "draft",
+    "prompt": "Qual expressão você pode usar ao se despedir?",
+    "options": [
+      { "id": "goodbye", "text": "Goodbye!" },
+      { "id": "good-morning", "text": "Good morning!" },
+      { "id": "please", "text": "Please!" }
+    ],
+    "correctAnswerId": "goodbye",
+    "hint": "A expressão começa com “Good” e termina com “bye”.",
+    "explanation": "“Goodbye!” é uma forma de dizer “Tchau!”.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "Goodbye"
+  },
+  {
+    "id": "phrase-excuse-me",
+    "category": "daily-phrases",
+    "level": "pre-A1",
+    "type": "multiple-choice",
+    "reviewStatus": "draft",
+    "prompt": "Qual expressão pode chamar a atenção de alguém com educação?",
+    "options": [
+      { "id": "excuse-me", "text": "Excuse me" },
+      { "id": "good-night", "text": "Good night" },
+      { "id": "thank-you", "text": "Thank you" }
+    ],
+    "correctAnswerId": "excuse-me",
+    "hint": "A expressão começa com “Excuse”.",
+    "explanation": "“Excuse me” pode ser usado para chamar alguém com educação.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "Excuse me"
+  },
+  {
+    "id": "association-apple",
+    "category": "vocabulary",
+    "level": "pre-A1",
+    "type": "association",
+    "reviewStatus": "draft",
+    "prompt": "Qual palavra em inglês combina com a imagem?",
+    "image": "🍎",
+    "imageDescription": "Maçã vermelha",
+    "options": [
+      { "id": "apple", "text": "apple" },
+      { "id": "orange", "text": "orange" },
+      { "id": "banana", "text": "banana" }
+    ],
+    "correctAnswerId": "apple",
+    "hint": "É uma fruta que pode ser vermelha ou verde.",
+    "explanation": "A imagem mostra uma maçã. “Apple” significa “maçã”.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "apple"
+  },
+  {
+    "id": "association-cat",
+    "category": "vocabulary",
+    "level": "pre-A1",
+    "type": "association",
+    "reviewStatus": "draft",
+    "prompt": "Qual palavra em inglês combina com a imagem?",
+    "image": "🐱",
+    "imageDescription": "Gato",
+    "options": [
+      { "id": "cat", "text": "cat" },
+      { "id": "dog", "text": "dog" },
+      { "id": "fish", "text": "fish" }
+    ],
+    "correctAnswerId": "cat",
+    "hint": "É um animal que costuma miar.",
+    "explanation": "A imagem mostra um gato. “Cat” significa “gato”.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "cat"
+  },
+  {
+    "id": "association-sun",
+    "category": "vocabulary",
+    "level": "pre-A1",
+    "type": "association",
+    "reviewStatus": "draft",
+    "prompt": "Qual palavra em inglês combina com a imagem?",
+    "image": "☀️",
+    "imageDescription": "Sol",
+    "options": [
+      { "id": "sun", "text": "sun" },
+      { "id": "moon", "text": "moon" },
+      { "id": "star", "text": "star" }
+    ],
+    "correctAnswerId": "sun",
+    "hint": "Ele aparece no céu durante o dia.",
+    "explanation": "A imagem mostra o sol. “Sun” significa “sol”.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "sun"
+  },
+  {
+    "id": "association-book",
+    "category": "vocabulary",
+    "level": "pre-A1",
+    "type": "association",
+    "reviewStatus": "draft",
+    "prompt": "Qual palavra em inglês combina com a imagem?",
+    "image": "📘",
+    "imageDescription": "Livro azul",
+    "options": [
+      { "id": "book", "text": "book" },
+      { "id": "bag", "text": "bag" },
+      { "id": "box", "text": "box" }
+    ],
+    "correctAnswerId": "book",
+    "hint": "Você pode abrir e ler uma história nele.",
+    "explanation": "A imagem mostra um livro. “Book” significa “livro”.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "book"
+  },
+  {
+    "id": "association-water",
+    "category": "vocabulary",
+    "level": "pre-A1",
+    "type": "association",
+    "reviewStatus": "draft",
+    "prompt": "Qual palavra em inglês combina com a imagem?",
+    "image": "💧",
+    "imageDescription": "Gota de água",
+    "options": [
+      { "id": "water", "text": "water" },
+      { "id": "milk", "text": "milk" },
+      { "id": "juice", "text": "juice" }
+    ],
+    "correctAnswerId": "water",
+    "hint": "É uma bebida que não tem cor.",
+    "explanation": "A imagem mostra uma gota de água. “Water” significa “água”.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "water"
+  },
+  {
+    "id": "association-tree",
+    "category": "vocabulary",
+    "level": "pre-A1",
+    "type": "association",
+    "reviewStatus": "draft",
+    "prompt": "Qual palavra em inglês combina com a imagem?",
+    "image": "🌳",
+    "imageDescription": "Árvore verde",
+    "options": [
+      { "id": "tree", "text": "tree" },
+      { "id": "flower", "text": "flower" },
+      { "id": "grass", "text": "grass" }
+    ],
+    "correctAnswerId": "tree",
+    "hint": "É uma planta alta com tronco e galhos.",
+    "explanation": "A imagem mostra uma árvore. “Tree” significa “árvore”.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "tree"
+  },
+  {
+    "id": "association-fish",
+    "category": "vocabulary",
+    "level": "pre-A1",
+    "type": "association",
+    "reviewStatus": "draft",
+    "prompt": "Qual palavra em inglês combina com a imagem?",
+    "image": "🐟",
+    "imageDescription": "Peixe",
+    "options": [
+      { "id": "fish", "text": "fish" },
+      { "id": "bird", "text": "bird" },
+      { "id": "frog", "text": "frog" }
+    ],
+    "correctAnswerId": "fish",
+    "hint": "É um animal que vive na água.",
+    "explanation": "A imagem mostra um peixe. “Fish” significa “peixe”.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "fish"
+  },
+  {
+    "id": "association-house",
+    "category": "vocabulary",
+    "level": "pre-A1",
+    "type": "association",
+    "reviewStatus": "draft",
+    "prompt": "Qual palavra em inglês combina com a imagem?",
+    "image": "🏠",
+    "imageDescription": "Casa",
+    "options": [
+      { "id": "house", "text": "house" },
+      { "id": "school", "text": "school" },
+      { "id": "shop", "text": "shop" }
+    ],
+    "correctAnswerId": "house",
+    "hint": "É um lugar onde uma pessoa pode morar.",
+    "explanation": "A imagem mostra uma casa. “House” significa “casa”.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "house"
+  },
+  {
+    "id": "association-dog",
+    "category": "vocabulary",
+    "level": "pre-A1",
+    "type": "association",
+    "reviewStatus": "draft",
+    "prompt": "Qual palavra em inglês combina com a imagem?",
+    "image": "🐶",
+    "imageDescription": "Cachorro",
+    "options": [
+      { "id": "dog", "text": "dog" },
+      { "id": "cat", "text": "cat" },
+      { "id": "duck", "text": "duck" }
+    ],
+    "correctAnswerId": "dog",
+    "hint": "É um animal que costuma latir.",
+    "explanation": "A imagem mostra um cachorro. “Dog” significa “cachorro”.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "dog"
+  },
+  {
+    "id": "association-star",
+    "category": "vocabulary",
+    "level": "pre-A1",
+    "type": "association",
+    "reviewStatus": "draft",
+    "prompt": "Qual palavra em inglês combina com a imagem?",
+    "image": "⭐",
+    "imageDescription": "Estrela",
+    "options": [
+      { "id": "star", "text": "star" },
+      { "id": "sun", "text": "sun" },
+      { "id": "cloud", "text": "cloud" }
+    ],
+    "correctAnswerId": "star",
+    "hint": "Você pode ver muitos desses pontos brilhantes no céu à noite.",
+    "explanation": "A imagem mostra uma estrela. “Star” significa “estrela”.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "star"
+  },
+  {
+    "id": "dialogue-hello",
+    "category": "dialogues",
+    "level": "pre-A1",
+    "type": "dialogue-choice",
+    "reviewStatus": "draft",
+    "dialogue": [
+      { "speaker": "Anna", "text": "Hello, Ben!" },
+      { "speaker": "Ben", "text": "____" }
+    ],
+    "prompt": "Escolha uma resposta adequada.",
+    "options": [
+      { "id": "hello-back", "text": "Hello, Anna!" },
+      { "id": "good-night", "text": "Good night!" },
+      { "id": "thank-you", "text": "Thank you!" }
+    ],
+    "correctAnswerId": "hello-back",
+    "hint": "Ben pode cumprimentar Anna também.",
+    "explanation": "“Hello” é uma saudação. Ben pode responder “Hello, Anna!”.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "Hello, Anna"
+  },
+  {
+    "id": "dialogue-how-are-you",
+    "category": "dialogues",
+    "level": "pre-A1",
+    "type": "dialogue-choice",
+    "reviewStatus": "draft",
+    "dialogue": [
+      { "speaker": "Leo", "text": "How are you?" },
+      { "speaker": "Mia", "text": "____" }
+    ],
+    "prompt": "Como Mia pode responder que está bem?",
+    "options": [
+      { "id": "i-am-fine", "text": "I am fine, thank you." },
+      { "id": "my-name-is", "text": "My name is Mia." },
+      { "id": "goodbye", "text": "Goodbye!" }
+    ],
+    "correctAnswerId": "i-am-fine",
+    "hint": "A pergunta quer saber como Mia está.",
+    "explanation": "“I am fine, thank you” significa “Estou bem, obrigado(a)”.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "I am fine, thank you"
+  },
+  {
+    "id": "dialogue-name",
+    "category": "dialogues",
+    "level": "pre-A1",
+    "type": "dialogue-choice",
+    "reviewStatus": "draft",
+    "dialogue": [
+      { "speaker": "Sam", "text": "What is your name?" },
+      { "speaker": "Eva", "text": "____" }
+    ],
+    "prompt": "Escolha a resposta que diz o nome de Eva.",
+    "options": [
+      { "id": "my-name-is-eva", "text": "My name is Eva." },
+      { "id": "i-am-ten", "text": "I am ten." },
+      { "id": "see-you", "text": "See you!" }
+    ],
+    "correctAnswerId": "my-name-is-eva",
+    "hint": "Eva pode começar a resposta com “My name is...”.",
+    "explanation": "“My name is Eva” significa “Meu nome é Eva”.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "My name is Eva"
+  },
+  {
+    "id": "dialogue-thanks",
+    "category": "dialogues",
+    "level": "pre-A1",
+    "type": "dialogue-choice",
+    "reviewStatus": "draft",
+    "dialogue": [
+      { "speaker": "Noah", "text": "Here is your book." },
+      { "speaker": "Lia", "text": "____" }
+    ],
+    "prompt": "O que Lia pode dizer para agradecer?",
+    "options": [
+      { "id": "thank-you", "text": "Thank you!" },
+      { "id": "good-morning", "text": "Good morning!" },
+      { "id": "excuse-me", "text": "Excuse me!" }
+    ],
+    "correctAnswerId": "thank-you",
+    "hint": "Lia recebeu algo e quer agradecer.",
+    "explanation": "“Thank you” significa “Obrigado(a)”.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "Thank you"
+  },
+  {
+    "id": "dialogue-yes",
+    "category": "dialogues",
+    "level": "pre-A1",
+    "type": "dialogue-choice",
+    "reviewStatus": "draft",
+    "dialogue": [
+      { "speaker": "Tom", "text": "Is this your pencil?" },
+      { "speaker": "Ana", "text": "____" }
+    ],
+    "prompt": "Escolha a resposta que confirma que o lápis é de Ana.",
+    "options": [
+      { "id": "yes-it-is", "text": "Yes, it is." },
+      { "id": "no-thank-you", "text": "No, thank you." },
+      { "id": "i-am-fine", "text": "I am fine." }
+    ],
+    "correctAnswerId": "yes-it-is",
+    "hint": "A resposta deve começar com “Yes”.",
+    "explanation": "“Yes, it is” confirma que o lápis é de Ana.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "Yes, it is"
+  },
+  {
+    "id": "dialogue-no",
+    "category": "dialogues",
+    "level": "pre-A1",
+    "type": "dialogue-choice",
+    "reviewStatus": "draft",
+    "dialogue": [
+      { "speaker": "Kim", "text": "Are you tired?" },
+      { "speaker": "Jo", "text": "____" }
+    ],
+    "prompt": "Escolha a resposta que diz que Jo não está cansado(a).",
+    "options": [
+      { "id": "no-i-am-not", "text": "No, I am not." },
+      { "id": "yes-i-am", "text": "Yes, I am." },
+      { "id": "my-name-is", "text": "My name is Jo." }
+    ],
+    "correctAnswerId": "no-i-am-not",
+    "hint": "Jo deve responder “No” e depois dizer “I am not”.",
+    "explanation": "“No, I am not” significa “Não, não estou”.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "No, I am not"
+  },
+  {
+    "id": "dialogue-please",
+    "category": "dialogues",
+    "level": "pre-A1",
+    "type": "dialogue-choice",
+    "reviewStatus": "draft",
+    "dialogue": [
+      { "speaker": "Max", "text": "Can I have some water?" },
+      { "speaker": "Rita", "text": "____" }
+    ],
+    "prompt": "Qual resposta educada Max poderia usar no pedido?",
+    "options": [
+      { "id": "water-please", "text": "Water, please." },
+      { "id": "goodbye-water", "text": "Goodbye, water." },
+      { "id": "sorry-water", "text": "Sorry, water." }
+    ],
+    "correctAnswerId": "water-please",
+    "hint": "A palavra educada para “por favor” é “please”.",
+    "explanation": "“Water, please” significa “Água, por favor”.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "Water, please"
+  },
+  {
+    "id": "dialogue-goodbye",
+    "category": "dialogues",
+    "level": "pre-A1",
+    "type": "dialogue-choice",
+    "reviewStatus": "draft",
+    "dialogue": [
+      { "speaker": "Ben", "text": "Goodbye, Sara!" },
+      { "speaker": "Sara", "text": "____" }
+    ],
+    "prompt": "Escolha uma resposta adequada para se despedir.",
+    "options": [
+      { "id": "goodbye-ben", "text": "Goodbye, Ben!" },
+      { "id": "good-morning-ben", "text": "Good morning, Ben!" },
+      { "id": "thank-you-ben", "text": "Thank you, Ben!" }
+    ],
+    "correctAnswerId": "goodbye-ben",
+    "hint": "Sara também pode usar a expressão de despedida “Goodbye”.",
+    "explanation": "“Goodbye” é usado para se despedir.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "Goodbye, Ben"
+  },
+  {
+    "id": "dialogue-sorry",
+    "category": "dialogues",
+    "level": "pre-A1",
+    "type": "dialogue-choice",
+    "reviewStatus": "draft",
+    "dialogue": [
+      { "speaker": "Alex", "text": "You dropped my pencil." },
+      { "speaker": "Pat", "text": "____" }
+    ],
+    "prompt": "O que Pat pode dizer para pedir desculpas?",
+    "options": [
+      { "id": "i-am-sorry", "text": "I am sorry." },
+      { "id": "you-are-welcome", "text": "You are welcome." },
+      { "id": "good-night", "text": "Good night." }
+    ],
+    "correctAnswerId": "i-am-sorry",
+    "hint": "A expressão para pedir desculpas começa com “I am...”.",
+    "explanation": "“I am sorry” significa “Sinto muito” ou “Desculpe”.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "I am sorry"
+  },
+  {
+    "id": "dialogue-where",
+    "category": "dialogues",
+    "level": "A1",
+    "type": "dialogue-choice",
+    "reviewStatus": "draft",
+    "dialogue": [
+      { "speaker": "Nina", "text": "Where is the school?" },
+      { "speaker": "Oli", "text": "____" }
+    ],
+    "prompt": "Escolha a resposta que indica um lugar.",
+    "options": [
+      { "id": "it-is-here", "text": "It is here." },
+      { "id": "i-am-seven", "text": "I am seven." },
+      { "id": "good-night", "text": "Good night." }
+    ],
+    "correctAnswerId": "it-is-here",
+    "hint": "A pergunta usa “Where” para perguntar onde algo está.",
+    "explanation": "“It is here” significa “Está aqui”.",
+    "reward": { "coins": 20, "xp": 10 },
+    "audioText": "It is here"
+  }
+]
